@@ -274,10 +274,10 @@ button{
     background: #253237 none repeat scroll 0 0;
 }
 .home-furniture .owl-dot-style .owl-dots .owl-dot.active {
-    background: #ef1e1e none repeat scroll 0 0;
+    background: #FEC023 none repeat scroll 0 0;
 }
 .home-furniture .owl-dot-style .owl-dots .owl-dot:hover {
-    background: #ef1e1e none repeat scroll 0 0;
+    background: #FEC023 none repeat scroll 0 0;
 }
 .home-medical .owl-dot-style .owl-dots .owl-dot.active {
     background: #0bbfbd none repeat scroll 0 0;
@@ -391,13 +391,13 @@ button{
 }
 .owl-nav-style-4 .owl-nav>div:hover {
     color: #fff;
-    border-color: #ef1e1e;
-    background-color: #ef1e1e;
+    border-color: #FEC023;
+    background-color: #FEC023;
 }
 .home-furniture .owl-nav-style .owl-nav>div:hover {
     color: #fff;
-    border-color: #ef1e1e;
-    background-color: #ef1e1e;
+    border-color: #FEC023;
+    background-color: #FEC023;
 }
 
 
@@ -458,8 +458,8 @@ button{
 }
 .owl-nav-style-3 .owl-nav>div:hover{
     color: #fff;
-    border-color: #ef1e1e;
-    background-color: #ef1e1e;
+    border-color: #FEC023;
+    background-color: #FEC023;
 }
 
 .home-furniture .owl-nav-style-2 .owl-nav>div{
@@ -582,7 +582,7 @@ button{
     z-index: 9811 !important;
 }
 .home-furniture #scrollUp{
-    background-color: #ef1e1e;
+    background-color: #FEC023;
 }
 .home-cosmatics #scrollUp{
     background-color: #c0b07d;
@@ -826,10 +826,10 @@ button{
     transform: translateX(0px);
 }
 .home-furniture .main-navigation ul li ul.mega-menu-wrap > li ul li.mega-menu-title a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .main-navigation ul li ul.mega-menu-wrap > li ul li a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-medical .main-navigation ul li ul.mega-menu-wrap > li ul li.mega-menu-title a:hover{
     color: #0bbfbd;
@@ -1029,13 +1029,13 @@ ul.vertical-menu-wrap li>a#more-btn {
     color:#c0b07d;
 }
 .home-furniture ul.vertical-menu-wrap li>a:hover{
-    color:#ef1e1e;
+    color:#FEC023;
 }
 .home-cosmatics ul.vertical-menu-wrap li:hover>a{
     color:#c0b07d;
 }
 .home-furniture ul.vertical-menu-wrap li:hover>a{
-    color:#ef1e1e;
+    color:#FEC023;
 }
 
 .home-electronic ul.vertical-menu-wrap li>a:hover{
@@ -1071,7 +1071,7 @@ ul.vertical-menu-wrap li>a#more-btn {
     color: #0090f0;
 }
 .home-furniture .home-9.vertical-menu ul li ul.mega-menu-wrap > li ul li a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 
 .vertical-menu .sub-menu{
@@ -1192,10 +1192,10 @@ li.menu-dropdown.position-static:hover .sub-menu.sub-menu-2{
     color: #0090f0;
 }
 .home-furniture .hero-side-category nav.category-menu > ul > li > a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .category-mega-menu > li > a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 
 .home-electronic .category-toggle-wrap .category-toggle {
@@ -1426,7 +1426,7 @@ li.menu-dropdown.position-static:hover .sub-menu.sub-menu-2{
     -o-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     transform: translateX(-50%);
-    background: #ef1e1e;
+    background: #FEC023;
 }
 .section-title.underline-shape.underline-shape-left:after {
     left: 0;
@@ -1474,29 +1474,29 @@ li.menu-dropdown.position-static:hover .sub-menu.sub-menu-2{
     color: #253237;
 }
 .home-furniture .header-right-nav .nice-select:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .header-right-nav .nice-select:hover:after{
-    border-color: #ef1e1e;
+    border-color: #FEC023;
 }
 .home-furniture .header-right-nav a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .home-14 .header-right-nav a:hover {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .header-right-nav .phone a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .phone a:hover {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .header-right-nav a:hover:after{
-    border-color: #ef1e1e;
+    border-color: #FEC023;
 }
 .home-furniture .header-right-nav .nice-select .option:hover, .home-furniture .header-right-nav .nice-select .option.focus, .home-furniture .header-right-nav .nice-select .option.selected.focus {
     background-color: #fff;
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .header-right-nav ul li {
     display: inline-block;
@@ -1635,7 +1635,7 @@ ul.dropdown-nav>li>a {
     color: #4fb68d;
 }
 .home-furniture .nice-select .option.selected {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .header-right-nav i {
     margin-right: 10px;
@@ -2140,7 +2140,7 @@ ul.dropdown-nav>li>a {
     color: #0090f0;
 }
 .home-furniture .mean-container .mean-nav ul li:hover > a {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-medical .mean-container .mean-nav ul li:hover > a {
     color: #0bbfbd;
@@ -2158,7 +2158,7 @@ ul.dropdown-nav>li>a {
     color: #fff;
 }
 .home-furniture .main-navigation ul li:hover > a {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-medical .main-navigation ul li:hover > a {
     color: #0bbfbd;
@@ -2177,10 +2177,10 @@ ul.dropdown-nav>li>a {
     color: #4fb68d;
 }
 .home-furniture .main-navigation ul li a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .main-navigation ul li .sub-menu > li > a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-3 .main-navigation ul li a:hover{
     color: #4fb68d;
@@ -2307,7 +2307,7 @@ ul.dropdown-nav>li>a {
     color:#0bbfbd;
 }
 .home-furniture .main-navigation ul li .sub-menu > li:hover > a{
-    color:#ef1e1e;
+    color:#FEC023;
 }
 .sub-menu>li{
     display: block !important;
@@ -2397,7 +2397,7 @@ ul.dropdown-nav>li>a {
     color: #4fb68d;
 }
 .home-furniture .header_account_list > a:hover {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-cosmatics .header_account_list > a:hover{
     color: #c0b07d;
@@ -2511,13 +2511,13 @@ ul.dropdown-nav>li>a {
     transition: .3s ease-in-out;
 }
 .home-furniture .dropdown_search form button{
-    background: #ef1e1e;
+    background: #FEC023;
 }
 .home-furniture .home-14 .dropdown_search form button {
     background: #253237;
 }
 .home-furniture .dropdown_search{
-    border-color: #ef1e1e;
+    border-color: #FEC023;
 }
 .home-medical .dropdown_search{
     border-color: #0bbfbd;
@@ -2617,7 +2617,7 @@ ul.dropdown-nav>li>a {
     background-color: #c0b07d;
 }
 .home-furniture .count-cart:after{
-    background-color: #ef1e1e;
+    background-color: #FEC023;
 }
 .count-cart:before {
     content: '\f110';
@@ -2666,7 +2666,7 @@ ul.dropdown-nav>li>a {
     color: #fff;
 }
 .home-furniture .home-14 .count-cart:after {
-    background-color: #ef1e1e;
+    background-color: #FEC023;
 }
 .home-19 .count-cart {
     color: #fff;
@@ -2846,7 +2846,7 @@ ul.dropdown-nav>li>a {
     color: #c0b07d;
 }
 .home-furniture .count-cart:hover {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-3 .sticky-nav.menu_fixed {
     background: #253237;
@@ -3143,7 +3143,7 @@ a.meanmenu-reveal.meanclose {
 }
 
 .home-furniture .home-10 .header-buttom-nav {
-    background: #ef1e1e;
+    background: #FEC023;
 }
 
 /*----------------------------------------*/
@@ -3362,7 +3362,7 @@ a.meanmenu-reveal.meanclose {
     background-color: #c0b07d;
 }
 .home-furniture .shop-btn {
-    background-color: #ef1e1e;
+    background-color: #FEC023;
 }
 
 .home-furniture .slider-content-15 .shop-btn:hover {
@@ -3486,6 +3486,8 @@ a.meanmenu-reveal.meanclose {
     -ms-transition: all 300ms linear;
     -o-transition: all 300ms linear;
     transition: all 300ms linear;
+    min-height: 220px;
+    width: 280px;
 }
 .second-img {
     position: absolute;
@@ -3557,7 +3559,7 @@ a.quick_view i {
     border-color: #c0b07d;
 }
 .home-furniture .list-product:hover{
-    border-color: #ef1e1e;
+    border-color: #FEC023;
 }
 
 .home-cosmatics a.quick_view:hover{
@@ -3576,7 +3578,7 @@ a.quick_view i {
     color: #fff;
 }
 .home-furniture a.quick_view:hover{
-    background-color: #ef1e1e;
+    background-color: #FEC023;
     color: #fff;
 }
 .home-medical a.quick_view:hover{
@@ -3629,7 +3631,7 @@ a.quick_view:hover{
     background-color: #c0b07d;
 }
 .home-furniture .new{
-    background-color: #ef1e1e;
+    background-color: #FEC023;
 }
 .home-electronic .new{
     background-color: #0090f0;
@@ -3685,7 +3687,7 @@ a.quick_view:hover{
     color: #c0b07d;
 }
 .home-furniture .product-link:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-medical .product-link:hover{
     color: #0bbfbd;
@@ -3700,7 +3702,7 @@ a.quick_view:hover{
     color: #0090f0;
   }
   .home-furniture .add-to-link ul li a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
   }
 
 
@@ -3998,10 +4000,10 @@ a.quick_view:hover{
     color: #253237;
 }
 .home-furniture .desc-listcategoreis a i{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .desc-listcategoreis a:hover {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 /*----------------------------------------*/
         /*  9.Hot Deal Area Style  */
@@ -4025,7 +4027,7 @@ a.quick_view:hover{
     color: #0090f0;
 }
 .home-furniture .in-stock span{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-medical .in-stock span{
     color: #0bbfbd;
@@ -4152,7 +4154,7 @@ a.quick_view:hover{
 }
 
 .home-furniture .hot-deal-2 .list-product{
-    border: 2px solid #ef1e1e;
+    border: 2px solid #FEC023;
 }
 
 
@@ -4469,7 +4471,7 @@ a.quick_view:hover{
 }
 
 .home-furniture .social-info li a:hover {
-    color:#ef1e1e;
+    color:#FEC023;
 }
 .home-medical .social-info li a:hover {
     color:#0bbfbd;
@@ -4532,7 +4534,7 @@ a.quick_view:hover{
     background: #0090f0;
 }
  .home-furniture .footer-herading:after{
-    background: #ef1e1e;
+    background: #FEC023;
 }
  .home-medical .footer-herading:after{
     background: #0bbfbd;
@@ -4579,7 +4581,7 @@ a.quick_view:hover{
     -ms-transition: all 300ms linear;
     -o-transition: all 300ms linear;
     transition: all 300ms linear;
-    color: #ef1e1e;
+    color: #FEC023;
 }
  .home-cosmatics .footer-links>ul>li a:hover {
     padding-left: 10px;
@@ -4699,7 +4701,7 @@ a.quick_view:hover{
     background: #4fb68d;
 }
 .home-furniture .clear input.button:hover{
-    background: #ef1e1e;
+    background: #FEC023;
 }
 .home-medical .clear input.button:hover{
     background: #0bbfbd;
@@ -4751,7 +4753,7 @@ a.quick_view:hover{
 }
 
 .home-furniture .copy-text a:hover {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 
 .home-medical .copy-text a:hover {
@@ -4934,7 +4936,7 @@ a.quick_view:hover{
     color: #253237;
 }
 .home-furniture .blog-post a.read-more-btn i{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .blog-post-top {
     position: relative;
@@ -4948,19 +4950,19 @@ a.quick_view:hover{
     color: #253237;
 }
 .home-furniture .blog-post a.blog-meta:hover  {
-    background: #ef1e1e;
+    background: #FEC023;
     color: #fff;
 }
 
 .home-furniture .blog-post a.read-more-btn:hover i {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 
 .home-furniture .blog-post a.read-more-btn:hover {
-    color: #ef1e1e;
+    color: #FEC023;
 }
 .home-furniture .blog-post .blog-post-heading a:hover{
-    color: #ef1e1e;
+    color: #FEC023;
 }
 a.read-more-btn i {
     color: #4fb68d;
@@ -5725,7 +5727,7 @@ a.read-more-btn i {
     background-color: #0090f0;
 }
 .home-furniture .product-quantity{
-    background-color: #ef1e1e;
+    background-color: #FEC023;
 }
 .home-medical .product-quantity{
     background-color: #0bbfbd;
@@ -5822,7 +5824,7 @@ a.read-more-btn i {
     color: #fff;
 }
 .home-furniture .default-btn:hover{
-    background: #ef1e1e;
+    background: #FEC023;
 }
 
 /*----------------------------------------*/
@@ -5858,10 +5860,10 @@ a.read-more-btn i {
     text-transform: uppercase;
 }
 .home-15 .category-tab-area .nav-link:hover{
-    color:#ef1e1e;
+    color:#FEC023;
 }
 .home-15 .category-tab-area .nav-link.active{
-    color:#ef1e1e;
+    color:#FEC023;
 }
 
 .category-tab-area .nav-link.active{
@@ -6016,7 +6018,8 @@ a.read-more-btn i {
     color: #253237;
     font-weight: 600;
     margin: 0 0 22px;
-    line-height: 16px;
+    line-height: 1.2;
+    width: 80%;
 }
 
 .reference {
@@ -6173,7 +6176,7 @@ a.read-more-btn i {
     background: #0090f0;
 }
 .home-furniture .pro-details-cart a{
-    background: #ef1e1e;
+    background: #FEC023;
 }
 .home-medical .pro-details-cart a{
     background: #0bbfbd;
@@ -6185,7 +6188,7 @@ a.read-more-btn i {
     color: #0090f0
 }
 .home-furniture .pro-details-social-info .social-info li a:hover{
-    color: #ef1e1e
+    color: #FEC023
 }
 .home-medical .pro-details-social-info .social-info li a:hover{
     color: #0bbfbd
@@ -7818,7 +7821,7 @@ h3.cart-page-title {
     display: inline-block;
 }
 .static-banner-area .static-banner-content a:hover{
-    background: #ef1e1e;
+    background: #FEC023;
     color: #fff;
 }
 
@@ -7862,7 +7865,7 @@ h3.cart-page-title {
     font-weight: 700;
 }
 .static-countdown-content p.countdown-price{
-    color: #ef1e1e;
+    color: #FEC023;
     font-size: 24px;
 }
 .static-countdown-content p{
@@ -7875,7 +7878,7 @@ h3.cart-page-title {
     font-size: 14px;
     font-weight: 700;
     color: #fff;
-    background: #ef1e1e;
+    background: #FEC023;
     line-height: 45px;
     height: 45px;
     padding: 0 30px;
@@ -8194,4 +8197,17 @@ span.title {
 }
 .about-area p {
     color: #253237;
+}
+
+.first-img,.second-img{
+    width: 100%;
+    object-fit: cover;
+    text-align: center;
+}
+
+.list-product-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
 }
