@@ -1,16 +1,18 @@
 <footer class="footer-area">
     <div class="footer-top">
         <div class="container">
-            <div class="row">
+            <div class="row pr-4">
                 <!-- footer single wedget -->
                 <div class="col-md-6 col-lg-4">
                     <!-- footer logo -->
                     <div class="footer-logo">
-                        <a href="index.html"><img src="assets/images/logo/logo-furniture.jpg" alt="" /></a>
+                        <a href="index.html"><img style="width: 70%; object-fit: contain"
+                                src="/assets/images/logo/logo-furniture.png" alt="" /></a>
                     </div>
                     <!-- footer logo -->
                     <div class="about-footer">
-                        <p class="text-info">We are a team of designers and developers that create high quality HTML template</p>
+                        <p class="text-info">We are a team of designers and developers that create high quality HTML
+                            template</p>
                         <div class="need-help">
                             <p class="phone-info">
                                 NEED HELP?
