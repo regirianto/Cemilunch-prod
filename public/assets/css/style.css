@@ -2611,6 +2611,7 @@ ul.dropdown-nav>li>a {
     text-align: center;
     border-radius: 50%;
     float: right;
+    display: none;
 }
 
 .home-cosmatics .count-cart:after{
@@ -6153,7 +6154,7 @@ a.read-more-btn i {
     position: relative;
     width: 80px;
 }
-.pro-details-cart a {
+.pro-details-cart span {
     position: relative;
     padding: 0 55px;
     line-height: 48px;
@@ -6168,17 +6169,18 @@ a.read-more-btn i {
     display: block;
     color: #fff;
     margin-left: 10px;
+    cursor: pointer;
 }
-.home-cosmatics .pro-details-cart a{
+.home-cosmatics .pro-details-cart span{
     background: #c0b07d;
 }
-.home-electronic .pro-details-cart a{
+.home-electronic .pro-details-cart span{
     background: #0090f0;
 }
-.home-furniture .pro-details-cart a{
+.home-furniture .pro-details-cart span{
     background: #FEC023;
 }
-.home-medical .pro-details-cart a{
+.home-medical .pro-details-cart span{
     background: #0bbfbd;
 }
 .home-cosmatics .pro-details-social-info .social-info li a:hover{
@@ -6240,7 +6242,7 @@ a.read-more-btn i {
     display: block;
     margin: 0;
 }
-.pro-details-cart a:hover{
+.pro-details-cart span:hover{
     background: #253237;
     color: #fff;
 }
@@ -6613,6 +6615,8 @@ a.read-more-btn i {
 }
 .cart-table-content table tbody > tr td.product-name {
     width: 435px;
+    text-align: left;
+    padding-left: 60px;
 }
 .cart-table-content table tbody > tr td.product-name a {
     color: #666;
@@ -8211,3 +8215,41 @@ span.title {
     gap: 20px;
     justify-content: center;
 }
+
+.count-items{
+    background: #FEC023;
+    position: absolute;
+    bottom: -7px;
+    left: 12px;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 20px;
+    font-weight: bold;
+    z-index: 2;
+}
+
+@keyframes shake {
+    0%, 100% { transform: rotate(0); }
+    25% { transform: rotate(-10deg); }
+    50% { transform: rotate(10deg); }
+    75% { transform: rotate(-5deg); }
+  }
+
+  .shake {
+    animation: shake 0.5s ease-in-out ;
+  }
+
+  .product-cart-image{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-left: 10px;
+  }
+
+  .cart-delete{
+    background: transparent;
+    border: none;
+  }
