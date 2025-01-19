@@ -22,7 +22,7 @@
                                         <a class="angle-icon" href="#">{{ auth()->user()->name }}</a>
                                         <ul class="dropdown-nav">
                                             <li><a href="my-account.html">My Account</a></li>
-                                            <li><a href="checkout.html">Checkout</a></li>
+                                            <li><a href="/order-list">Transaksi</a></li>
                                             @auth
                                                 <li>
                                                     <form action="/logout" method="POST">

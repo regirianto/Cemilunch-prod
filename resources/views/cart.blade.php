@@ -64,7 +64,7 @@
                                 <h4 class="grand-totall-title">Grand Total
                                     <span>Rp {{ number_format($total, 0, '.', '.') }}</span>
                                 </h4>
-                                <a href="#">Proceed to Checkout</a>
+                                <a href="/checkout">Proceed to Checkout</a>
                             </div>
                         </div>
                     </div>
