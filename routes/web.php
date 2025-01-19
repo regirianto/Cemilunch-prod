@@ -1,7 +1,9 @@
 <?php
 
 use App\Http\Controllers\CartController;
+use App\Http\Controllers\InvoiceController;
 use App\Http\Controllers\LoginController;
+use App\Http\Controllers\OrderController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\RegisterController;
@@ -23,3 +25,10 @@ Route::get('/cart', [CartController::class, 'index'])->middleware('auth')->name(
 Route::delete('/cart-delete/{id}', [CartController::class, 'destroy'])->middleware('auth')->name('destroyCart');
 Route::post('/cart', [CartController::class, 'create'])->middleware('auth')->name('addCart');
 Route::post('/count-cart', [CartController::class, 'getCount'])->middleware('auth')->name('getCount');
+
+Route::get('/checkout', [OrderController::class, 'index'])->middleware('auth')->name('chekout');
+Route::post('/checkout', [OrderController::class, 'store'])->middleware('auth')->name('chekoutProduct');
+
+Route::get('/order-list', [OrderController::class, 'history'])->middleware('auth')->name('checkoutHistory');
+
+Route::get('/invoice', [InvoiceController::class, 'show'])->middleware('auth')->name('invoice');

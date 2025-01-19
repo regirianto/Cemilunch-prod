@@ -6829,7 +6829,7 @@ h3.cart-page-title {
     transition: all 0.3s ease 0s;
 }
 .grand-totall a {
-    background-color: #4fb68b;
+    background-color: #FEC023;
     border-radius: 50px;
     color: #fff;
     display: block;
@@ -6902,7 +6902,7 @@ h3.cart-page-title {
     float: right;
 }
 .grand-totall h4.grand-totall-title {
-    color: #4fb68b;
+    color: #FEC023;
     font-size: 20px;
     font-weight: 700;
     margin: 0 0 25px;
@@ -7111,7 +7111,7 @@ h3.cart-page-title {
 }
 .your-order-area .your-order-wrap .your-order-product-info .your-order-total ul li {
     font-weight: 700;
-    color: #4fb68b;
+    color: #FEC023;
     font-size: 16px;
     list-style: outside none none;
 }
@@ -7140,7 +7140,7 @@ h3.cart-page-title {
     color: #666;
 }
 .your-order-area .Place-order > a {
-    background-color: #4fb68b;
+    background-color: #FEC023;
     color: #fff;
     display: block;
     font-weight: 700;
@@ -8253,3 +8253,72 @@ span.title {
     background: transparent;
     border: none;
   }
+
+  .history-card{
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(141,150,170,0.4);
+    padding:20px 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    border-radius: 1px solid #D6DFEB;
+    position: relative;
+  }
+
+.history-card-info-wrapper .history-product-img img{
+    width: 100%;
+    object-fit: cover;
+  }
+
+ .detail-order-wrapper{
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    align-items: center;
+ } 
+
+ .invoice-order-btn{
+    background: #FEC023;
+    color: #fff !important;
+    text-transform: none;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 25px;
+ }
+
+ .total-price-order{
+    font-weight: bold;
+ }
+
+ .order-status-badge{
+    background:  #FEC023;
+    color: #fff;
+    font-weight: bold;
+    padding: 4px 10px;
+    text-align: center;
+    display: block;
+    width: fit-content;
+    border-radius: 15px;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    text-transform: capitalize;
+ }
+
+ .order-product-name{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+ }
+
+ .Place-order button{
+    border: none;
+    border-radius: 25px;
+    background: #FEC023;
+    color: #fff;
+    display: inline;
+    width: 100%;
+    text-align: center;
+    padding: 13px;
+    font-size: 17px;
+    font-weight: bold;
+ }
